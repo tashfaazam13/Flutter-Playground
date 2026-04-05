@@ -3,7 +3,7 @@ import 'package:assignment_easypaisa/widgets/home.dart';
 
 void main() {
   runApp(
-    MyApp()
+    MyApp(),
     );
 }
 
